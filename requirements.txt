@@ -1,0 +1,11 @@
+seaborn~=0.13.2
+matplotlib~=3.10.1
+pandas~=2.2.3
+numpy~=2.2.5
+DateTime~=5.5
+bleak~=0.22.3
+scikit-learn~=1.6.1
+onnxruntime~=1.21.1
+torch~=2.7.0
+lightning~=2.5.1.post0
+pytorch-lightning~=2.5.1.post0
